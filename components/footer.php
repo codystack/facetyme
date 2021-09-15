@@ -28,6 +28,7 @@
       </div>
     </div>
   </footer>
+</div>
 
   <script>
     function initMap() {

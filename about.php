@@ -128,8 +128,8 @@ include "./components/navbar-dark.php";
       <div class="container">
         <div class="row mb-10">
           <div class="col-lg-10">
-            <span class="text-primary mb-4" style="display: inline-block;font-weight: 500;text-transform: uppercase;letter-spacing: 0.1em;">Who we are</span>
-            <h3 class="fs-5">At Facetyme Pictures, we know that photography is not just about taking pictures but about capturing the essence of our clients and documenting their most precious moments that last a lifetime.
+            <span class="text-danger mb-4" style="display: inline-block;font-weight: 500;text-transform: uppercase;letter-spacing: 0.1em;">Who we are</span>
+            <h3 class="fs-5 text-justify" style="font-weight: 200;">At Facetyme Pictures, we know that photography is not just about taking pictures but about capturing the essence of our clients and documenting their most precious moments that last a lifetime.
               Housed in a world class studio in Lagos, Nigeria, our team of experienced and professional photographers are dedicated to providing you with an unrivaled experience that allows you express your individuality through pictures.
               <br>Our creations are inspired by your taste and who you are as a person.</h3>
           </div>
