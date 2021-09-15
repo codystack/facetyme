@@ -26,8 +26,8 @@ include "./components/navbar-dark.php";
           data-bottom-top="transform: translateX(-25%)" data-top-bottom="transform: translateX(-40%)">
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/1.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/1.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/1.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/1.png')">
               </span>
             </figure>
           </div>
