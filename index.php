@@ -64,14 +64,14 @@ include "./components/navbar-light.php";
         <div class="row flex-nowrap align-items-end g-2 g-xl-5 mb-2 mb-xl-5" data-bottom-top="transform: translateX(-25%)"
           data-top-bottom="transform: translateX(-40%)">
           <div class="col-6">
-            <figure class="media equal equal-16-10 media-image" data-bp='{"imgSrc": "./assets/images/home/1.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/1.jpg')">
+            <figure class="media equal equal-16-10 media-image" data-bp='{"imgSrc": "./assets/images/home/1.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/home/1.png')">
               </span>
             </figure>        
           </div>
           <div class="col-6">
-            <figure class="media equal equal-16-10 media-image" data-bp='{"imgSrc": "./assets/images/home/9.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/9.jpg')">
+            <figure class="media equal equal-16-10 media-image" data-bp='{"imgSrc": "./assets/images/home/9.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/home/9.png')">
               </span>
             </figure>        
           </div>
@@ -84,8 +84,8 @@ include "./components/navbar-light.php";
           </div>
           <div class="col-6">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/home/8.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/8.jpg')">
+              data-bp='{"imgSrc": "./assets/images/home/8.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/home/8.png')">
               </span>
             </figure>       
           </div>
@@ -101,15 +101,15 @@ include "./components/navbar-light.php";
           </div>
           <div class="col-4">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/home/7.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/7.jpg')">
+              data-bp='{"imgSrc": "./assets/images/home/7.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/home/7.png')">
               </span>
             </figure>        
           </div>
           <div class="col-4">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/home/4.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/4.jpg')">
+              data-bp='{"imgSrc": "./assets/images/home/4.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/home/4.png)">
               </span>
             </figure>        
           </div>
@@ -140,14 +140,14 @@ include "./components/navbar-light.php";
             <div class="row g-2 gallery-1">
               <div class="col" data-aos="fade-up">
                 <figure class="media media-image equal-md-1-2" 
-                  data-bp='{"imgSrc": "./assets/images/home/10.jpg" , "parentGalleryClass": "gallery-1" }' >
-                  <span  style="background-image: url('./assets/images/home/10.jpg')" class="spanx">
+                  data-bp='{"imgSrc": "./assets/images/home/10.png" , "parentGalleryClass": "gallery-1" }' >
+                  <span  style="background-image: url('./assets/images/home/10.png')" class="spanx">
                   </span>
                 </figure>              </div>
               <div class="col" data-aos="fade-up" data-aos-delay="100">
                 <figure class="media media-image equal-md-1-2" 
-                  data-bp='{"imgSrc": "./assets/images/home/11.jpg" , "parentGalleryClass": "gallery-1" }' >
-                  <span  style="background-image: url('./assets/images/home/11.jpg')" class="spanx">
+                  data-bp='{"imgSrc": "./assets/images/home/11.png" , "parentGalleryClass": "gallery-1" }' >
+                  <span  style="background-image: url('./assets/images/home/11.png')" class="spanx">
                   </span>
                 </figure>              </div>
             </div>
