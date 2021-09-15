@@ -33,8 +33,8 @@ include "./components/navbar-dark.php";
           </div>
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/13.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/13.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/13.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/13.png')">
               </span>
             </figure>
           </div>
@@ -47,8 +47,8 @@ include "./components/navbar-dark.php";
           </div>
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/12.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/12.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/12.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/12.png')">
               </span>
             </figure>
           </div>
@@ -61,15 +61,15 @@ include "./components/navbar-dark.php";
           </div>
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/11.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/11.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/11.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/11.png')">
               </span>
             </figure>
           </div>
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/4.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/4.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/4.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/4.png')">
               </span>
             </figure>
           </div>
@@ -99,8 +99,8 @@ include "./components/navbar-dark.php";
           </div>
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/6.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/6.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/6.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/6.png')">
               </span>
             </figure>
           </div>
@@ -113,8 +113,8 @@ include "./components/navbar-dark.php";
           </div>
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/7.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/7.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/7.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/7.png')">
               </span>
             </figure>
           </div>
