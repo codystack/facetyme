@@ -20,16 +20,16 @@ include "./components/navbar-light.php";
         <img class="w-40 shadow position-absolute top-10 end-70" src="assets/images/blocks/1.jpg" alt=""
           data-center-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-80%);">
 
-        <img class="w-40 shadow position-absolute top-80 start-20" src="assets/images/blocks/2.jpg" alt=""
+        <img class="w-40 shadow position-absolute top-80 start-20" src="assets/images/blocks/2.png" alt=""
           data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-50%);">
 
-        <img class="w-40 shadow position-absolute top-0 start-60" src="assets/images/blocks/4.jpg" alt=""
+        <img class="w-40 shadow position-absolute top-0 start-60" src="assets/images/blocks/4.png" alt=""
           data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-50%);">
 
-        <img class="w-40 shadow position-absolute top-60 start-80" src="assets/images/blocks/3.jpg" alt=""
+        <img class="w-40 shadow position-absolute top-60 start-80" src="assets/images/blocks/3.png" alt=""
           data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-120%);">
 
-        <img class="w-40 shadow position-absolute top-100 start-50" src="assets/images/blocks/5.jpg" alt=""
+        <img class="w-40 shadow position-absolute top-100 start-50" src="assets/images/blocks/5.png" alt=""
           data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-60%);">
 
         <img class="w-40 shadow position-absolute top-60 end-90" src="assets/images/blocks/6.jpg" alt=""
