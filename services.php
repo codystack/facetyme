@@ -37,7 +37,7 @@ include "./components/navbar-light.php";
       </div>
       -->
     </div>
-    <figure class="background background-overlay" style="background-image: url('assets/images/servicesbg.jpg');background-position:initial;">
+    <figure class="background background-overlay" style="background-image: url('assets/images/servicesbg.png');background-position:initial;">
     </figure>
   </section>
 

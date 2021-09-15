@@ -44,7 +44,7 @@ include "./components/navbar-light.php";
         <div class="row align-items-center justify-content-between">
           <div class="col-lg-6 mb-5 mb-lg-0">
             <div class="frame">
-              <img src="assets/images/aboutHme.jpg" class="img-fluid" alt="">
+              <img src="assets/images/aboutHme.png" class="img-fluid" alt="">
               <span></span>
             </div>
           </div>
