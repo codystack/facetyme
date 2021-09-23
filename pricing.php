@@ -14,11 +14,9 @@ include "./components/navbar-dark.php";
       </div>
       <div class="row g-3 g-xl-5 align-items-end">
         <div class="col-lg-4">
-            <a href="">
-                <div class="card border bg-dark inverted">
-                    <img src="./assets/images/pricing/PHOTO STUDIO.jpg" alt="PHOTO STUDIO">
-                </div>
-            </a>
+            <div class="card border bg-dark inverted">
+                <img src="./assets/images/pricing/PHOTO STUDIO.jpg" alt="PHOTO STUDIO">
+            </div>
         </div>
 
         <div class="col-lg-4">
