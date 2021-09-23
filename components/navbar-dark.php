@@ -14,15 +14,13 @@
           </a>
         </li>
         <li class="nav-item d-none d-lg-block">
-          <a href="login"
-            class="btn btn-outline-dark ms-2">
-            Login
+          <a href="book" class="btn btn-outline-dark ms-2">
+            Book
           </a>
         </li>
-        <li class="nav-item d-none d-lg-block">
-          <a href="signup"
-            class="btn btn-dark">
-            Sign up
+        <li class="nav-item d-none d-lg-block ms-1">
+          <a href="signup" class="btn btn-dark">
+            Login/Sign up
           </a>
         </li>
       </ul>
@@ -87,10 +85,10 @@
                 Contact us
                 </a>
             </li>
-          <li class="nav-item d-lg-none">
-            <a href="login"
-              class="nav-link text-primary">Login</a>
-          </li>
+            <li class="nav-item d-lg-none">
+                <a href="book" class="btn btn-outline-dark">Book</a>
+                <a href="login" class="btn btn-dark">Login/Sign up</a>
+            </li>
         </ul>
       </div>
       <!-- mobile user menu -->

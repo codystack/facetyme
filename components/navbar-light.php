@@ -12,13 +12,13 @@
                 </a>
             </li>
             <li class="nav-item d-none d-lg-block">
-                <a href="login" class="btn btn-outline-white ms-2">
-                    Login
+                <a href="book" class="btn btn-outline-white ms-2">
+                    Book
                 </a>
             </li>
-            <li class="nav-item d-none d-lg-block">
+            <li class="nav-item d-none d-lg-block ms-1">
                 <a href="signup" class="btn btn-white">
-                    Sign up
+                Login/Sign up
                 </a>
             </li>
         </ul>
@@ -85,7 +85,8 @@
             </li>
 
             <li class="nav-item d-lg-none">
-                <a href="login" class="nav-link text-primary">Login</a>
+                <a href="book" class="btn btn-outline-white">Book</a>
+                <a href="login" class="btn btn-white">Login/Sign up</a>
             </li>
         </ul>
       </div>

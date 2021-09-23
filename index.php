@@ -53,6 +53,7 @@ include "./components/navbar-light.php";
             <p class="text-secondary">At Facetyme Pictures, we know that photography is not just about taking pictures but about capturing the essence of our clients and documenting their most precious moments that last a lifetime.</p>
             <p class="text-secondary">Housed in a world class studio in Lagos, Nigeria, our team of experienced and professional photographers are dedicated to providing you with an unrivaled experience that allows you express your individuality through pictures.
                 Our creations are inspired by your taste and who you are as a person.</p>
+            <button class="btn btn-lg btn-black">Book Now</button>
           </div>
         </div>
       </div>
@@ -109,7 +110,7 @@ include "./components/navbar-light.php";
           <div class="col-4">
             <figure class="media equal equal-16-10 media-image" 
               data-bp='{"imgSrc": "./assets/images/home/4.png" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/4.png)">
+              <span  style="background-image: url('./assets/images/home/4.png')">
               </span>
             </figure>        
           </div>
