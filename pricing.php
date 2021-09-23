@@ -6,73 +6,75 @@ include "./components/navbar-dark.php";
   <!-- pricing -->
   <section class="py-15 py-xl-20">
     <div class="container mt-10">
-      <div class="row justify-content-center mb-10">
-        <div class="col-lg-8 text-center">
-          <h1 class="mb-2">Our Pricing</h1>
-          <p class="fs-lg text-secondary">Choose from our wild range of tailored price list.</p>
-        </div>
-      </div>
-      <div class="row g-3 g-xl-5 align-items-end">
-        <div class="col-lg-4">
-            <div class="card border bg-dark inverted">
-                <img src="./assets/images/pricing/PHOTO STUDIO.jpg" alt="PHOTO STUDIO">
+
+        <div class="row justify-content-center mb-10">
+            <div class="col-lg-8 text-center">
+            <h1 class="mb-2">Our Pricing</h1>
+            <p class="fs-lg text-secondary">Choose from our wild range of tailored price list.</p>
             </div>
         </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/HEAD SHOOT .jpg" alt="HEAD SHOOT">
-          </div>
-        </div>
+        <div class="row g-3 g-xl-5 text-center">
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/PHOTO STUDIO.jpg" alt="PHOTO STUDIO">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/FASHION.jpg" alt="FASHION">
-          </div>
-        </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/HEAD SHOOT .jpg" alt="HEAD SHOOT">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/BIRTHDAY.jpg" alt="BIRTHDAY">
-          </div>
-        </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/FASHION.jpg" alt="FASHION">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/FAMILY .jpg" alt="FAMILY">
-          </div>
-        </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/BIRTHDAY.jpg" alt="BIRTHDAY">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/FAMILY  2.jpg" alt="FAMILY 2">
-          </div>
-        </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/FAMILY .jpg" alt="FAMILY">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/KIDDIES.jpg" alt="KIDDIES">
-          </div>
-        </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/FAMILY  2.jpg" alt="FAMILY 2">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/MATERNITY.jpg" alt="MATERNITY">
-          </div>
-        </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/KIDDIES.jpg" alt="KIDDIES">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/NEW BORN.jpg" alt="NEW BORN">
-          </div>
-        </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/MATERNITY.jpg" alt="MATERNITY">
+                </div>
+            </div>
 
-        <div class="col-lg-4">
-          <div class="card border bg-dark inverted">
-              <img src="./assets/images/pricing/PRE WEDDING.jpg" alt="PHOTO STUDIO">
-          </div>
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/NEW BORN.jpg" alt="NEW BORN">
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card border bg-dark inverted">
+                    <img src="./assets/images/pricing/PRE WEDDING.jpg" alt="PHOTO STUDIO">
+                </div>
+            </div>
         </div>
-      </div>
     </div>
   </section>
 
