@@ -12,15 +12,15 @@
                 </a>
             </li>
             <li class="nav-item d-none d-lg-block">
-                <a href="book" class="btn btn-outline-white ms-2">
-                    Book
+                <a href="book" class="btn btn-white ms-2">
+                    Book Now
                 </a>
             </li>
-            <li class="nav-item d-none d-lg-block ms-1">
+            <!--<li class="nav-item d-none d-lg-block ms-1">
                 <a href="signup" class="btn btn-white">
                 Login/Sign up
                 </a>
-            </li>
+            </li>-->
         </ul>
 
       <!-- primary -->
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                         <div class="col-12">
-                            <a href="login"
+                            <a href="book"
                                 class="card card-arrow inverted bg-black">
                                 <div class="card-footer mt-auto">
                                 <h4 class="lead lh-3 fw-light">Book a Session</h4>
@@ -85,8 +85,8 @@
             </li>
 
             <li class="nav-item d-lg-none">
-                <a href="book" class="btn btn-outline-white">Book</a>
-                <a href="login" class="btn btn-white">Login/Sign up</a>
+                <a href="book" class="btn btn-white">Book Now</a>
+                <!--<a href="login" class="btn btn-white">Login/Sign up</a>-->
             </li>
         </ul>
       </div>

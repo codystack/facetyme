@@ -14,7 +14,7 @@
                   data-bs-parent="#accordion-1">
                   <div class="accordion-body">
                     <p class="text-secondary">
-                      <span class="fw-bold text-white">Yes.</span> you can book and pay 10% of the booking session online.
+                      <span class="fw-bold text-white">Yes.</span> you can book and pay 50% of the booking session online.
                     </p>
                   </div>
                 </div>

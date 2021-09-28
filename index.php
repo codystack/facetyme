@@ -116,8 +116,8 @@ include "./components/navbar-light.php";
           </div>
           <div class="col-4">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/home/6.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/6.jpg')">
+              data-bp='{"imgSrc": "./assets/images/home/6.jpeg" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/home/6.jpeg')">
               </span>
             </figure>        
           </div>
@@ -211,7 +211,7 @@ include "./components/navbar-light.php";
             </a>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <a href="login" class="card card-arrow bg-primary inverted overflow-hidden">
+            <a href="book" class="card card-arrow bg-primary inverted overflow-hidden">
               <div class="card-body">
                 <h4 class="card-title fw-light fs-4">We'd love to <span class="fw-bold">shoot</span> and frame you.<br> Book a session</h4>
               </div>
