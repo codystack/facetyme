@@ -32,7 +32,7 @@ include "./components/navbar-light.php";
         <img class="w-40 shadow position-absolute top-100 start-50" src="assets/images/blocks/5.png" alt=""
           data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-60%);">
 
-        <img class="w-40 shadow position-absolute top-60 end-90" src="assets/images/blocks/6.jpg" alt=""
+        <img class="w-40 shadow position-absolute top-60 end-90" src="assets/images/blocks/6.png" alt=""
           data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-80%);">
       </figure>
       <span class="scroll-down"></span>
@@ -78,8 +78,8 @@ include "./components/navbar-light.php";
           </div>
           <div class="col-6">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/home/2.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/home/2.jpg')">
+              data-bp='{"imgSrc": "./assets/images/home/2.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/home/2.png')">
               </span>
             </figure>        
           </div>

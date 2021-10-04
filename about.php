@@ -106,8 +106,8 @@ include "./components/navbar-dark.php";
           </div>
           <div class="col-6 col-lg-5">
             <figure class="media equal equal-16-10 media-image" 
-              data-bp='{"imgSrc": "./assets/images/about/8.jpg" , "parentGalleryClass": "gallery-1" }' >
-              <span  style="background-image: url('./assets/images/about/8.jpg')">
+              data-bp='{"imgSrc": "./assets/images/about/8.png" , "parentGalleryClass": "gallery-1" }' >
+              <span  style="background-image: url('./assets/images/about/8.png')">
               </span>
             </figure>
           </div>

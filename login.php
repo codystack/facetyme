@@ -1,4 +1,4 @@
-<?php
+ <?php
 include "./components/header.php";
 require_once "./auth/account.php";
 ?>
