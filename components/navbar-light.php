@@ -38,7 +38,7 @@
                 </a>
             </li>
 
-            <li class="nav-item dropdown dropdown-hover">
+            <!-- <li class="nav-item dropdown dropdown-hover">
                 <a class="nav-link dropdown-toggle" href="contact.html#" id="navbarDropdown-2" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
                 Portfolio
@@ -70,13 +70,13 @@
                         </div>
                     </div>
                 </div>
-            </li>
+            </li> -->
             
-            <!--<li class="nav-item">
-                <a class="nav-link" href="services">
-                Services
+            <li class="nav-item">
+                <a class="nav-link" href="https://portfolio.facetymepictures.com/">
+                Portfolio
                 </a>
-            </li>-->
+            </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="contact">
